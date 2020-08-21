@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-1. Install [https://www.nodejs.org](http://localhost:3000) globally
+1. Install [https://www.nodejs.org](https://www.nodejs.org) globally
 2. Install `Yarn` globally `npm install -g yarn` 
 3. Install `git`
 4. Clone the repository into your local machine
